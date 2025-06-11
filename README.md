@@ -7,13 +7,13 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <br>
  
-<img src="https://i.ibb.co/WY2qBYz/SulaMd.jpg" height="300" width="100%">
+<img src="https://files.catbox.moe/3y5w8z.jpg" height="300" width="100%">
 
 <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-𝐒𝐄𝐍𝐔 𝐌𝐃 Multidevice Whatsapp Bot Made By (Jester Exe).
+𝐒𝐄𝐍𝐔 𝐌𝐃 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 𝐖𝐀 𝐁𝐎𝐓.
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -49,7 +49,7 @@
 
 <b>GET SESSION ID VIA PAIR CODE </b>
 
-<a href='https://sulamd-cc9ca3dc80f6.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://senu-web-cocdas-projects.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
@@ -82,13 +82,13 @@
 
 <hr>
 
-<b>CONTACT OWNER</b>
+<b>CONTACT JESTER</b>
 
-[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://files.catbox.moe/3y5w8z.jpg)](https://wa.me/+94775877546)
 
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VakXjl80rGiFkl4nR62Z"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <hr>
 
